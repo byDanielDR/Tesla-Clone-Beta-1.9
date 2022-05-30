@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-awesome-reveal": "^3.8.1",
+    "styled-components": "^5.3.3"
+  }
+}
